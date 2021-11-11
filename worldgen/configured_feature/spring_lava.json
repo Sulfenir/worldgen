@@ -14,7 +14,9 @@
                   "minecraft:diorite",
                   "minecraft:andesite",
                   "minecraft:deepslate",
-                  "minecraft:tuff"
+                  "minecraft:tuff",
+                  "minecraft:calcite",
+                  "minecraft:dirt"
                 ],
                 "state": {
                   "Properties": {
